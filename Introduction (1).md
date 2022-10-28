@@ -8,6 +8,7 @@ We will be using a heart disease dataset from Cleveland that has information on 
 
 ## Sources
 https://www.cdc.gov/heartdisease/coronary_ad.htm
+
 https://www.rgax.com/life-underwriting-hub/underwriting-signs-stress-testing
 
 ```R
